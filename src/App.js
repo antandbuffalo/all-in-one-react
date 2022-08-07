@@ -5,7 +5,7 @@ import { LodashSamples } from './LodashSamples';
 function App() {
   return (
     <div className="App">
-      Learn React
+      <h2>Learn React</h2>
       <LodashSamples />
     </div>
   );
