@@ -8,7 +8,6 @@ function App() {
     <div className="App">
       Learn React
       <LodashSamples />
-      <Druid />
     </div>
   );
 }
